@@ -1,3 +1,4 @@
+/*code by vishal */
 *{
     margin: 0;
     padding: 0;
@@ -47,8 +48,11 @@ html,body{
     border-radius: 5px;
     color: rgb(18, 119, 57);
 }
+/*code by vishal */
 #pbtm {
     display: flex;
+    justify-content:center;
+    align-items:center;
     gap: 10px;
     flex-wrap: wrap;
     /* justify-content: center; */
@@ -73,3 +77,5 @@ html,body{
     cursor: pointer;
     scale: 1.03;
 }
+
+/*code by vishal */
